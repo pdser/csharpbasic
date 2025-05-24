@@ -2,7 +2,7 @@
 // #error version
 using System.Reflection;
 using static System.Console;
-namespace Vocabulary;
+namespace Vocabulary; 
 
 class Program
 {
